@@ -1,8 +1,8 @@
 
 def main(): 
 
-    partOne("./part1Final.txt")
-    partTwo("./part2Final.txt")
+    partOne("./TextFiles/Day One/part1Final.txt")
+    partTwo("./TextFiles/Day One/part2Final.txt")
 
 def partOne(fileName):
     #get the string 
